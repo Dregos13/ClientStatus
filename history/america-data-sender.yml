@@ -1,7 +1,7 @@
-url: https://$API_AMERICA_SITE_URL/data-sender
+url: https://$API_SENSONET_SITE_URL/data-sender
 status: down
-code: 404
-responseTime: 18
-lastUpdated: 2025-04-24T12:14:23.781Z
+code: 405
+responseTime: 43
+lastUpdated: 2025-04-24T12:20:01.772Z
 startTime: 2025-04-24T12:14:23.723Z
 generator: Upptime <https://github.com/upptime/upptime>
