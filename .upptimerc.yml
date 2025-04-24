@@ -131,47 +131,47 @@ sites:
     url: https://$AMERICA_SITE_URL
   
   - name: America - Comments
-    url: "https://$API_AMERICA_SITE_URL/comments"
+    url: "https://$API_SENSONET_SITE_URL/comments"
     expectedStatusCodes:
       - 200
       - 401
   - name: America - Dashboards
-    url: "https://$API_AMERICA_SITE_URL/dashboards"
+    url: "https://$API_SENSONET_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
   - name: America - Data-Logger
-    url: "https://$API_AMERICA_SITE_URL/data-logger"
+    url: "https://$API_SENSONET_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
   - name: America - Data-Processing
-    url: "https://$API_AMERICA_SITE_URL/data-processing"
+    url: "https://$API_SENSONET_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
   - name: America - Data-Sender
-    url: "https://$API_AMERICA_SITE_URL/data-sender"
+    url: "https://$API_SENSONET_SITE_URL/data-sender"
     expectedStatusCodes:
       - 200
       - 401
   - name: America - Hierarchy
-    url: "https://$API_AMERICA_SITE_URL/hierarchy"
+    url: "https://$API_SENSONET_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
   - name: America - Instruments
-    url: "https://$API_AMERICA_SITE_URL/instruments"
+    url: "https://$API_SENSONET_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
   - name: America - Layers
-    url: "https://$API_AMERICA_SITE_URL/layers"
+    url: "https://$API_SENSONET_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
   - name: America - Notifications
-    url: "https://$API_AMERICA_SITE_URL/notifications"
+    url: "https://$API_SENSONET_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
@@ -478,47 +478,47 @@ sites:
     url: https://$METROSANTIAGO_SITE_URL
 
   - name: MetroSantiago - Comments
-    url: "https://$API_METROSANTIAGO_SITE_URL/comments"
+    url: "https://$API_SENSONET_SITE_URL/comments"
     expectedStatusCodes:
       - 200
       - 401
   - name: MetroSantiago - Dashboards
-    url: "https://$API_METROSANTIAGO_SITE_URL/dashboards"
+    url: "https://$API_SENSONET_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
   - name: MetroSantiago - Data-Logger
-    url: "https://$API_METROSANTIAGO_SITE_URL/data-logger"
+    url: "https://$API_SENSONET_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
   - name: MetroSantiago - Data-Processing
-    url: "https://$API_METROSANTIAGO_SITE_URL/data-processing"
+    url: "https://$API_SENSONET_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
   - name: MetroSantiago - Data-Sender
-    url: "https://$API_METROSANTIAGO_SITE_URL/data-sender"
+    url: "https://$API_SENSONET_SITE_URL/data-sender"
     expectedStatusCodes:
       - 200
       - 401
   - name: MetroSantiago - Hierarchy
-    url: "https://$API_METROSANTIAGO_SITE_URL/hierarchy"
+    url: "https://$API_SENSONET_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
   - name: MetroSantiago - Instruments
-    url: "https://$API_METROSANTIAGO_SITE_URL/instruments"
+    url: "https://$API_SENSONET_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
   - name: MetroSantiago - Layers
-    url: "https://$API_METROSANTIAGO_SITE_URL/layers"
+    url: "https://$API_SENSONET_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
   - name: MetroSantiago - Notifications
-    url: "https://$API_METROSANTIAGO_SITE_URL/notifications"
+    url: "https://$API_SENSONET_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
