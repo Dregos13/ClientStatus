@@ -1,7 +1,7 @@
 url: https://$API_FTG_SITE_URL/comments
 status: up
 code: 401
-responseTime: 216
-lastUpdated: 2025-04-24T15:56:07.610Z
+responseTime: 130
+lastUpdated: 2025-04-24T23:02:25.817Z
 startTime: 2025-04-24T12:15:28.528Z
 generator: Upptime <https://github.com/upptime/upptime>
