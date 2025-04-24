@@ -1,0 +1,7 @@
+url: https://$API_ALULA_SITE_URL/instruments
+status: down
+code: 401
+responseTime: 470
+lastUpdated: 2025-04-24T11:44:08.232Z
+startTime: 2025-04-24T11:44:06.818Z
+generator: Upptime <https://github.com/upptime/upptime>
