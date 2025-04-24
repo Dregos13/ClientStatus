@@ -1,7 +1,7 @@
 url: https://$ERMIDDLEEAST_SITE_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-24T12:41:54.534Z
+status: up
+code: 200
+responseTime: 1039
+lastUpdated: 2025-04-24T12:59:08.585Z
 startTime: 2025-04-24T12:41:54.529Z
 generator: Upptime <https://github.com/upptime/upptime>
