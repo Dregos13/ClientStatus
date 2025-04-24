@@ -1,7 +1,7 @@
 url: https://$API_ALULA_SITE_URL/notifications
 status: up
 code: 401
-responseTime: 444
-lastUpdated: 2025-04-24T12:05:00.360Z
+responseTime: 443
+lastUpdated: 2025-04-24T12:14:16.040Z
 startTime: 2025-04-24T11:44:13.392Z
 generator: Upptime <https://github.com/upptime/upptime>

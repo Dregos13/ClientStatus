@@ -1,0 +1,7 @@
+url: https://$API_WAPCOS_SITE_URL/dashboards
+status: up
+code: 401
+responseTime: 735
+lastUpdated: 2025-04-24T12:16:51.173Z
+startTime: 2025-04-24T12:16:50.436Z
+generator: Upptime <https://github.com/upptime/upptime>

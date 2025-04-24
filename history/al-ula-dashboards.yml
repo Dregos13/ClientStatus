@@ -1,7 +1,7 @@
 url: https://$API_ALULA_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 416
-lastUpdated: 2025-04-24T12:04:41.334Z
+responseTime: 444
+lastUpdated: 2025-04-24T12:14:09.557Z
 startTime: 2025-04-24T11:43:51.781Z
 generator: Upptime <https://github.com/upptime/upptime>
