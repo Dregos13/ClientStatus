@@ -1,7 +1,7 @@
 url: https://$API_FTG_SITE_URL/data-sender
 status: down
 code: 405
-responseTime: 119
-lastUpdated: 2025-04-24T11:43:35.902Z
+responseTime: 19
+lastUpdated: 2025-04-24T12:04:27.868Z
 startTime: 2025-04-24T11:43:35.547Z
 generator: Upptime <https://github.com/upptime/upptime>
