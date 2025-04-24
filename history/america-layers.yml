@@ -1,7 +1,7 @@
-url: https://$API_AMERICA_SITE_URL/layers
-status: down
-code: 404
-responseTime: 18
-lastUpdated: 2025-04-24T12:14:28.967Z
+url: https://$API_SENSONET_SITE_URL/layers
+status: up
+code: 401
+responseTime: 45
+lastUpdated: 2025-04-24T12:20:06.466Z
 startTime: 2025-04-24T12:14:28.909Z
 generator: Upptime <https://github.com/upptime/upptime>
