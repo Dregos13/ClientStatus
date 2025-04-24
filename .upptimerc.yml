@@ -3,6 +3,9 @@ owner: Dregos13 # Your GitHub organization or username, where this repository li
 repo: ClientStatus # The name of this repository
 
 sites:
+
+  # ACES CLIENT
+
   - name: ACES - Front
     url: https://$ACES_SITE_URL
   - name: Aces - Comments
@@ -10,63 +13,56 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
 
   - name: Aces - Dashboards
     url: "https://$API_FTG_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
 
   - name: Aces - Data-Logger
     url: "https://$API_FTG_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
 
   - name: Aces - Data-Processing
     url: "https://$API_FTG_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
 
   - name: Aces - Data-Sender
     url: "https://$API_FTG_SITE_URL/data-sender"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
 
   - name: Aces - Hierarchy
     url: "https://$API_FTG_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
 
   - name: Aces - Instruments
     url: "https://$API_FTG_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
 
   - name: Aces - Layers
     url: "https://$API_FTG_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
 
   - name: Aces - Notifications
     url: "https://$API_FTG_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
+
+  #ALULA CLIENT
 
   - name: AlUla
     url: https://$ALULA_SITE_URL
@@ -75,73 +71,61 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Dashboards
     url: "https://$API_ALULA_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Data-Logger
     url: "https://$API_ALULA_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Data-Processing
     url: "https://$API_ALULA_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Data-Sender
     url: "https://$API_ALULA_SITE_URL/data-sender"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Hierarchy
     url: "https://$API_ALULA_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Instruments
     url: "https://$API_ALULA_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Layers
     url: "https://$API_ALULA_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Notifications
     url: "https://$API_ALULA_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Instruments
     url: "https://$API_ALULA_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Layers
     url: "https://$API_ALULA_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: AlUla - Notifications
     url: "https://$API_ALULA_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
-    __dangerous__body_down: "Unauthorized"
   - name: America
     url: https://$AMERICA_SITE_URL
   - name: Demo
