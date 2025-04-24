@@ -32,12 +32,6 @@ sites:
       - 200
       - 401
 
-  - name: Aces - Data-Sender
-    url: "https://$API_FTG_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
-
   - name: Aces - Hierarchy
     url: "https://$API_FTG_SITE_URL/hierarchy"
     expectedStatusCodes:
@@ -86,46 +80,49 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: AlUla - Data-Sender
-    url: "https://$API_ALULA_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: AlUla - Hierarchy
     url: "https://$API_ALULA_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: AlUla - Instruments
     url: "https://$API_ALULA_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: AlUla - Layers
     url: "https://$API_ALULA_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: AlUla - Notifications
     url: "https://$API_ALULA_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: AlUla - Instruments
     url: "https://$API_ALULA_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: AlUla - Layers
     url: "https://$API_ALULA_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: AlUla - Notifications
     url: "https://$API_ALULA_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
+  
   # PROQIO AMERICA 
   - name: America
     url: https://$AMERICA_SITE_URL
@@ -150,79 +147,83 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: America - Data-Sender
-    url: "https://$API_SENSONET_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: America - Hierarchy
     url: "https://$API_SENSONET_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: America - Instruments
     url: "https://$API_SENSONET_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: America - Layers
     url: "https://$API_SENSONET_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: America - Notifications
     url: "https://$API_SENSONET_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
+  
   # PROQIO DEMO
   - name: Demo
     url: https://$DEMO_SITE_URL
+  
   - name: Demo - Comments
     url: "https://$API_DEMO_SITE_URL/comments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Demo - Dashboards
     url: "https://$API_DEMO_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Demo - Data-Logger
     url: "https://$API_DEMO_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Demo - Data-Processing
     url: "https://$API_DEMO_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: Demo - Data-Sender
-    url: "https://$API_DEMO_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: Demo - Hierarchy
     url: "https://$API_DEMO_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Demo - Instruments
     url: "https://$API_DEMO_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Demo - Layers
     url: "https://$API_DEMO_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Demo - Notifications
     url: "https://$API_DEMO_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
+  
   # PROQIO DIGITAL DEMO    
   - name: DigitalDemo
     url: https://$DIGITALDEMO_SITE_URL
@@ -232,41 +233,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: DigitalDemo - Dashboards
     url: "https://$API_DIGITALDEMO_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: DigitalDemo - Data-Logger
     url: "https://$API_DIGITALDEMO_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: DigitalDemo - Data-Processing
     url: "https://$API_DIGITALDEMO_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: DigitalDemo - Data-Sender
-    url: "https://$API_DIGITALDEMO_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: DigitalDemo - Hierarchy
+  
+  - nam  - name: DigitalDemo - Hierarchy
     url: "https://$API_DIGITALDEMO_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: DigitalDemo - Instruments
     url: "https://$API_DIGITALDEMO_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: DigitalDemo - Layers
     url: "https://$API_DIGITALDEMO_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: DigitalDemo - Notifications
     url: "https://$API_DIGITALDEMO_SITE_URL/notifications"
     expectedStatusCodes:
@@ -282,41 +285,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Erindia - Dashboards
     url: "https://$API_ERINDIA_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Erindia - Data-Logger
     url: "https://$API_ERINDIA_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Erindia - Data-Processing
     url: "https://$API_ERINDIA_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: Erindia - Data-Sender
-    url: "https://$API_ERINDIA_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: Erindia - Hierarchy
     url: "https://$API_ERINDIA_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Erindia - Instruments
     url: "https://$API_ERINDIA_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Erindia - Layers
     url: "https://$API_ERINDIA_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Erindia - Notifications
     url: "https://$API_ERINDIA_SITE_URL/notifications"
     expectedStatusCodes:
@@ -332,41 +337,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Europe - Dashboards
     url: "https://$API_EUROPE_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Europe - Data-Logger
     url: "https://$API_EUROPE_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Europe - Data-Processing
     url: "https://$API_EUROPE_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: Europe - Data-Sender
-    url: "https://$API_EUROPE_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: Europe - Hierarchy
     url: "https://$API_EUROPE_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Europe - Instruments
     url: "https://$API_EUROPE_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Europe - Layers
     url: "https://$API_EUROPE_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Europe - Notifications
     url: "https://$API_EUROPE_SITE_URL/notifications"
     expectedStatusCodes:
@@ -382,36 +389,37 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: FTG - Dashboards
     url: "https://$API_FTG_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: FTG - Data-Logger
     url: "https://$API_FTG_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: FTG - Data-Processing
     url: "https://$API_FTG_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
-      - 401
-  - name: FTG - Data-Sender
-    url: "https://$API_FTG_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+      - 401  
+  
   - name: FTG - Hierarchy
     url: "https://$API_FTG_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: FTG - Instruments
     url: "https://$API_FTG_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: FTG - Layers
     url: "https://$API_FTG_SITE_URL/layers"
     expectedStatusCodes:
@@ -432,41 +440,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Hattadam - Dashboards
     url: "https://$API_HATTADAM_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Hattadam - Data-Logger
     url: "https://$API_HATTADAM_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Hattadam - Data-Processing
     url: "https://$API_HATTADAM_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: Hattadam - Data-Sender
-    url: "https://$API_HATTADAM_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: Hattadam - Hierarchy
     url: "https://$API_HATTADAM_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Hattadam - Instruments
     url: "https://$API_HATTADAM_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Hattadam - Layers
     url: "https://$API_HATTADAM_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Hattadam - Notifications
     url: "https://$API_HATTADAM_SITE_URL/notifications"
     expectedStatusCodes:
@@ -482,41 +492,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: MetroSantiago - Dashboards
     url: "https://$API_SENSONET_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: MetroSantiago - Data-Logger
     url: "https://$API_SENSONET_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: MetroSantiago - Data-Processing
     url: "https://$API_SENSONET_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: MetroSantiago - Data-Sender
-    url: "https://$API_SENSONET_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+ 
   - name: MetroSantiago - Hierarchy
     url: "https://$API_SENSONET_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: MetroSantiago - Instruments
     url: "https://$API_SENSONET_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: MetroSantiago - Layers
     url: "https://$API_SENSONET_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: MetroSantiago - Notifications
     url: "https://$API_SENSONET_SITE_URL/notifications"
     expectedStatusCodes:
@@ -532,41 +544,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Neom - Dashboards
     url: "https://$API_NEOM_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Neom - Data-Logger
     url: "https://$API_NEOM_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Neom - Data-Processing
     url: "https://$API_NEOM_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: Neom - Data-Sender
-    url: "https://$API_NEOM_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: Neom - Hierarchy
     url: "https://$API_NEOM_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Neom - Instruments
     url: "https://$API_NEOM_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Neom - Layers
     url: "https://$API_NEOM_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Neom - Notifications
     url: "https://$API_NEOM_SITE_URL/notifications"
     expectedStatusCodes:
@@ -582,41 +596,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RGSUSA - Dashboards
     url: "https://$API_RGSUSA_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RGSUSA - Data-Logger
     url: "https://$API_RGSUSA_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RGSUSA - Data-Processing
     url: "https://$API_RGSUSA_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: RGSUSA - Data-Sender
-    url: "https://$API_RGSUSA_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: RGSUSA - Hierarchy
     url: "https://$API_RGSUSA_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RGSUSA - Instruments
     url: "https://$API_RGSUSA_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RGSUSA - Layers
     url: "https://$API_RGSUSA_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RGSUSA - Notifications
     url: "https://$API_RGSUSA_SITE_URL/notifications"
     expectedStatusCodes:
@@ -632,41 +648,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RTA - Dashboards
     url: "https://$API_RTA_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RTA - Data-Logger
     url: "https://$API_RTA_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RTA - Data-Processing
     url: "https://$API_RTA_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
-      - 401
-  - name: RTA - Data-Sender
-    url: "https://$API_RTA_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+      - 401  
+  
   - name: RTA - Hierarchy
     url: "https://$API_RTA_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RTA - Instruments
     url: "https://$API_RTA_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RTA - Layers
     url: "https://$API_RTA_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: RTA - Notifications
     url: "https://$API_RTA_SITE_URL/notifications"
     expectedStatusCodes:
@@ -682,23 +700,21 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Sensonet - Dashboards
     url: "https://$API_SENSONET_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Sensonet - Data-Logger
     url: "https://$API_SENSONET_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Sensonet - Data-Processing
     url: "https://$API_SENSONET_SITE_URL/data-processing"
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Sensonet - Data-Sender
-    url: "https://$API_SENSONET_SITE_URL/data-sender"
     expectedStatusCodes:
       - 200
       - 401
@@ -707,16 +723,19 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Sensonet - Instruments
     url: "https://$API_SENSONET_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Sensonet - Layers
     url: "https://$API_SENSONET_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Sensonet - Notifications
     url: "https://$API_SENSONET_SITE_URL/notifications"
     expectedStatusCodes:
@@ -732,41 +751,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Transalta - Dashboards
     url: "https://$API_TRANSALTA_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Transalta - Data-Logger
     url: "https://$API_TRANSALTA_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Transalta - Data-Processing
     url: "https://$API_TRANSALTA_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: Transalta - Data-Sender
-    url: "https://$API_TRANSALTA_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: Transalta - Hierarchy
     url: "https://$API_TRANSALTA_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Transalta - Instruments
     url: "https://$API_TRANSALTA_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Transalta - Layers
     url: "https://$API_TRANSALTA_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Transalta - Notifications
     url: "https://$API_TRANSALTA_SITE_URL/notifications"
     expectedStatusCodes:
@@ -782,41 +803,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Wang - Dashboards
     url: "https://$API_WANG_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Wang - Data-Logger
     url: "https://$API_WANG_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Wang - Data-Processing
     url: "https://$API_WANG_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: Wang - Data-Sender
-    url: "https://$API_WANG_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: Wang - Hierarchy
     url: "https://$API_WANG_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Wang - Instruments
     url: "https://$API_WANG_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Wang - Layers
     url: "https://$API_WANG_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: Wang - Notifications
     url: "https://$API_WANG_SITE_URL/notifications"
     expectedStatusCodes:
@@ -832,41 +855,43 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: WapCos - Dashboards
     url: "https://$API_WAPCOS_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: WapCos - Data-Logger
     url: "https://$API_WAPCOS_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: WapCos - Data-Processing
     url: "https://$API_WAPCOS_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
-  - name: WapCos - Data-Sender
-    url: "https://$API_WAPCOS_SITE_URL/data-sender"
-    expectedStatusCodes:
-      - 200
-      - 401
+  
   - name: WapCos - Hierarchy
     url: "https://$API_WAPCOS_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: WapCos - Instruments
     url: "https://$API_WAPCOS_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: WapCos - Layers
     url: "https://$API_WAPCOS_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
+  
   - name: WapCos - Notifications
     url: "https://$API_WAPCOS_SITE_URL/notifications"
     expectedStatusCodes:
