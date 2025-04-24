@@ -1,7 +1,7 @@
-url: https://$API_METROSANTIAGO_SITE_URL/dashboards
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-24T12:15:46.983Z
+url: https://$API_SENSONET_SITE_URL/dashboards
+status: up
+code: 401
+responseTime: 39
+lastUpdated: 2025-04-24T12:20:46.512Z
 startTime: 2025-04-24T12:15:46.979Z
 generator: Upptime <https://github.com/upptime/upptime>
