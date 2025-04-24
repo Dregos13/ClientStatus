@@ -1,7 +1,7 @@
 url: https://$API_NEOM_SITE_URL/notifications
 status: up
 code: 401
-responseTime: 449
-lastUpdated: 2025-04-24T12:16:11.682Z
+responseTime: 443
+lastUpdated: 2025-04-24T12:20:57.823Z
 startTime: 2025-04-24T12:16:11.231Z
 generator: Upptime <https://github.com/upptime/upptime>
