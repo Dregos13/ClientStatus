@@ -1,7 +1,7 @@
 url: https://$API_NEOM_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 441
-lastUpdated: 2025-04-24T15:56:22.165Z
+responseTime: 409
+lastUpdated: 2025-04-24T23:02:39.375Z
 startTime: 2025-04-24T12:16:03.578Z
 generator: Upptime <https://github.com/upptime/upptime>
