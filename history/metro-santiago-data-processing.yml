@@ -1,7 +1,7 @@
 url: https://$API_SENSONET_SITE_URL/data-processing
 status: up
 code: 401
-responseTime: 38
-lastUpdated: 2025-04-24T12:20:47.259Z
+responseTime: 39
+lastUpdated: 2025-04-24T15:56:17.791Z
 startTime: 2025-04-24T12:15:50.464Z
 generator: Upptime <https://github.com/upptime/upptime>
