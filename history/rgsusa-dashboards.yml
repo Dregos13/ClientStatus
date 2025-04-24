@@ -1,7 +1,7 @@
 url: https://$API_RGSUSA_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 42
-lastUpdated: 2025-04-24T12:20:58.866Z
+responseTime: 40
+lastUpdated: 2025-04-24T15:56:27.015Z
 startTime: 2025-04-24T12:16:12.968Z
 generator: Upptime <https://github.com/upptime/upptime>
