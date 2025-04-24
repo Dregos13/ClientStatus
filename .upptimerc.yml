@@ -1,0 +1,61 @@
+# Change these first
+owner: Dregos13 # Your GitHub organization or username, where this repository lives
+repo: client_status # The name of this repository
+
+sites:
+  - name: FTG
+    url: https://$FTG_SITE_URL
+  - name: Wang
+    url: https://$WANG_SITE_URL
+  - name: Sensonet
+    url: https://$SENSONET_SITE_URL
+  - name: Transalta
+    url: https://$TRANSALTA_SITE_URL
+  - name: RGSUSA
+    url: https://$RGSUSA_SITE_URL
+  - name: America
+    url: https://$AMERICA_SITE_URL
+  - name: MetroSantiago
+    url: https://$METROSANTIAGO_SITE_URL
+  - name: Erindia
+    url: https://$ERINDIA_SITE_URL
+  - name: Europe
+    url: https://$EUROPE_SITE_URL
+  - name: AlUla
+    url: https://$ALULA_SITE_URL
+  - name: Neom
+    url: https://$NEOM_SITE_URL
+  - name: ACES
+    url: https://$ACES_SITE_URL
+  - name: Hattadam
+    url: https://$HATTADAM_SITE_URL
+  - name: RTA
+    url: https://$RTA_SITE_URL
+  - name: WapCos
+    url: https://$WAPCOS_SITE_URL
+  - name: Demo
+    url: https://$DEMO_SITE_URL
+  - name: DigitalDemo
+    url: https://$DIGITALDEMO_SITE_URL
+
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.ramidregos.com
+  # baseUrl: /your-repo-name
+  logoUrl: https://status.ramidregos.com/proqio.svg
+  theme: dark
+  name: Proqio Monitoring
+  # Optional: add a custom logo to the status page
+  introTitle: "**Upptime** is the uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This Monitor tool will show the status of all Proqio clients.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
