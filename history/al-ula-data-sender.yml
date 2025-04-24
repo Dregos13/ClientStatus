@@ -1,7 +1,7 @@
 url: https://$API_ALULA_SITE_URL/data-sender
 status: down
 code: 503
-responseTime: 219
-lastUpdated: 2025-04-24T12:14:11.653Z
+responseTime: 225
+lastUpdated: 2025-04-24T12:19:46.033Z
 startTime: 2025-04-24T11:44:01.068Z
 generator: Upptime <https://github.com/upptime/upptime>
