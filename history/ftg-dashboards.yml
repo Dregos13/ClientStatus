@@ -1,7 +1,7 @@
 url: https://$API_FTG_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 38
-lastUpdated: 2025-04-24T15:56:07.834Z
+responseTime: 17
+lastUpdated: 2025-04-24T23:02:26.024Z
 startTime: 2025-04-24T12:15:29.018Z
 generator: Upptime <https://github.com/upptime/upptime>
