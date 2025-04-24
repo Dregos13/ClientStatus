@@ -8,50 +8,51 @@ sites:
 
   - name: ACES - Front
     url: https://$ACES_SITE_URL
+
   - name: Aces - Comments
-    url: "https://$API_FTG_SITE_URL/comments"
+    url: "https://$API_ACES_SITE_URL/comments"
     expectedStatusCodes:
       - 200
       - 401
 
   - name: Aces - Dashboards
-    url: "https://$API_FTG_SITE_URL/dashboards"
+    url: "https://$API_ACES_SITE_URL/dashboards"
     expectedStatusCodes:
       - 200
       - 401
 
   - name: Aces - Data-Logger
-    url: "https://$API_FTG_SITE_URL/data-logger"
+    url: "https://$API_ACES_SITE_URL/data-logger"
     expectedStatusCodes:
       - 200
       - 401
 
   - name: Aces - Data-Processing
-    url: "https://$API_FTG_SITE_URL/data-processing"
+    url: "https://$API_ACES_SITE_URL/data-processing"
     expectedStatusCodes:
       - 200
       - 401
 
   - name: Aces - Hierarchy
-    url: "https://$API_FTG_SITE_URL/hierarchy"
+    url: "https://$API_ACES_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
       - 401
 
   - name: Aces - Instruments
-    url: "https://$API_FTG_SITE_URL/instruments"
+    url: "https://$API_ACES_SITE_URL/instruments"
     expectedStatusCodes:
       - 200
       - 401
 
   - name: Aces - Layers
-    url: "https://$API_FTG_SITE_URL/layers"
+    url: "https://$API_ACES_SITE_URL/layers"
     expectedStatusCodes:
       - 200
       - 401
 
   - name: Aces - Notifications
-    url: "https://$API_FTG_SITE_URL/notifications"
+    url: "https://$API_ACES_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
@@ -60,6 +61,7 @@ sites:
 
   - name: AlUla
     url: https://$ALULA_SITE_URL
+
   - name: AlUla - Comments
     url: "https://$API_ALULA_SITE_URL/comments"
     expectedStatusCodes:
@@ -87,12 +89,6 @@ sites:
       - 200
       - 401
   
-  - name: AlUla - Instruments
-    url: "https://$API_ALULA_SITE_URL/instruments"
-    expectedStatusCodes:
-      - 200
-      - 401
-  
   - name: AlUla - Layers
     url: "https://$API_ALULA_SITE_URL/layers"
     expectedStatusCodes:
@@ -107,18 +103,6 @@ sites:
   
   - name: AlUla - Instruments
     url: "https://$API_ALULA_SITE_URL/instruments"
-    expectedStatusCodes:
-      - 200
-      - 401
-  
-  - name: AlUla - Layers
-    url: "https://$API_ALULA_SITE_URL/layers"
-    expectedStatusCodes:
-      - 200
-      - 401
-  
-  - name: AlUla - Notifications
-    url: "https://$API_ALULA_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
@@ -252,7 +236,7 @@ sites:
       - 200
       - 401
   
-  - nam  - name: DigitalDemo - Hierarchy
+  - name: DigitalDemo - Hierarchy
     url: "https://$API_DIGITALDEMO_SITE_URL/hierarchy"
     expectedStatusCodes:
       - 200
@@ -324,6 +308,58 @@ sites:
   
   - name: Erindia - Notifications
     url: "https://$API_ERINDIA_SITE_URL/notifications"
+    expectedStatusCodes:
+      - 200
+      - 401
+
+  # PROQIO ERMIDDLEEAST
+  - name: ErMiddleEast
+    url: https://$ERMIDDLEEAST_SITE_URL
+
+  - name: ErMiddleEast - Comments
+    url: "https://$API_ERMIDDLEEAST_SITE_URL/comments"
+    expectedStatusCodes:
+      - 200
+      - 401
+  
+  - name: ErMiddleEast - Dashboards
+    url: "https://$API_ERMIDDLEEAST_SITE_URL/dashboards"
+    expectedStatusCodes:
+      - 200
+      - 401
+  
+  - name: ErMiddleEast - Data-Logger
+    url: "https://$API_ERMIDDLEEAST_SITE_URL/data-logger"
+    expectedStatusCodes:
+      - 200
+      - 401
+  
+  - name: ErMiddleEast - Data-Processing
+    url: "https://$API_ERMIDDLEEAST_SITE_URL/data-processing"
+    expectedStatusCodes:
+      - 200
+      - 401
+  
+  - name: ErMiddleEast - Hierarchy
+    url: "https://$API_ERMIDDLEEAST_SITE_URL/hierarchy"
+    expectedStatusCodes:
+      - 200
+      - 401
+  
+  - name: ErMiddleEast - Instruments
+    url: "https://$API_ERMIDDLEEAST_SITE_URL/instruments"
+    expectedStatusCodes:
+      - 200
+      - 401
+  
+  - name: ErMiddleEast - Layers
+    url: "https://$API_ERMIDDLEEAST_SITE_URL/layers"
+    expectedStatusCodes:
+      - 200
+      - 401
+  
+  - name: ErMiddleEast - Notifications
+    url: "https://$API_ERMIDDLEEAST_SITE_URL/notifications"
     expectedStatusCodes:
       - 200
       - 401
