@@ -1,0 +1,8 @@
+:root {
+    /* example overrides—pick the vars you need */
+    --nav-background-color: var(--color-indigo-700);
+    --nav-border-bottom-color: var(--color-indigo-700);
+    --card-background-color: var(--color-indigo-700);
+    --button-background-color: var(--color-indigo-700);
+  }
+  
