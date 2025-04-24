@@ -1,7 +1,7 @@
 url: https://$API_NEOM_SITE_URL/data-logger
 status: up
 code: 401
-responseTime: 447
-lastUpdated: 2025-04-24T12:20:53.173Z
+responseTime: 441
+lastUpdated: 2025-04-24T15:56:22.797Z
 startTime: 2025-04-24T12:16:04.301Z
 generator: Upptime <https://github.com/upptime/upptime>
