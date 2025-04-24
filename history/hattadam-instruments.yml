@@ -1,7 +1,7 @@
 url: https://$API_HATTADAM_SITE_URL/instruments
 status: up
 code: 401
-responseTime: 448
-lastUpdated: 2025-04-24T15:56:15.140Z
+responseTime: 410
+lastUpdated: 2025-04-24T23:02:32.880Z
 startTime: 2025-04-24T12:15:42.248Z
 generator: Upptime <https://github.com/upptime/upptime>
