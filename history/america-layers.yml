@@ -1,7 +1,7 @@
 url: https://$API_SENSONET_SITE_URL/layers
 status: up
 code: 401
-responseTime: 45
-lastUpdated: 2025-04-24T12:20:06.466Z
+responseTime: 43
+lastUpdated: 2025-04-24T15:55:38.152Z
 startTime: 2025-04-24T12:14:28.909Z
 generator: Upptime <https://github.com/upptime/upptime>
