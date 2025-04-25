@@ -1,7 +1,7 @@
 url: https://$API_HATTADAM_SITE_URL/notifications
 status: up
 code: 401
-responseTime: 413
-lastUpdated: 2025-04-24T23:02:34.083Z
+responseTime: 445
+lastUpdated: 2025-04-25T23:02:38.318Z
 startTime: 2025-04-24T12:15:44.087Z
 generator: Upptime <https://github.com/upptime/upptime>
