@@ -1,7 +1,7 @@
 url: https://$API_SENSONET_SITE_URL/instruments
 status: up
 code: 401
-responseTime: 16
-lastUpdated: 2025-04-24T23:02:35.712Z
+responseTime: 40
+lastUpdated: 2025-04-25T23:02:40.137Z
 startTime: 2025-04-24T12:15:55.616Z
 generator: Upptime <https://github.com/upptime/upptime>
