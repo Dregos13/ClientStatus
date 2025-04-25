@@ -1,7 +1,7 @@
 url: https://$API_HATTADAM_SITE_URL/data-logger
 status: up
 code: 401
-responseTime: 409
-lastUpdated: 2025-04-24T23:02:31.081Z
+responseTime: 442
+lastUpdated: 2025-04-25T23:02:35.134Z
 startTime: 2025-04-24T12:15:37.006Z
 generator: Upptime <https://github.com/upptime/upptime>
