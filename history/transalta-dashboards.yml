@@ -1,7 +1,7 @@
 url: https://$API_TRANSALTA_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 15
-lastUpdated: 2025-04-24T23:02:56.439Z
+responseTime: 41
+lastUpdated: 2025-04-25T23:03:01.191Z
 startTime: 2025-04-24T12:16:36.738Z
 generator: Upptime <https://github.com/upptime/upptime>
