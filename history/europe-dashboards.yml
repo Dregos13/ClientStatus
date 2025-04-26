@@ -1,7 +1,7 @@
 url: https://$API_EUROPE_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 440
-lastUpdated: 2025-04-25T23:02:24.897Z
+responseTime: 407
+lastUpdated: 2025-04-26T23:02:13.280Z
 startTime: 2025-04-24T12:15:13.342Z
 generator: Upptime <https://github.com/upptime/upptime>
