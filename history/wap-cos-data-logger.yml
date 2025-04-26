@@ -1,7 +1,7 @@
 url: https://$API_WAPCOS_SITE_URL/data-logger
-status: down
-code: 503
-responseTime: 227
-lastUpdated: 2025-04-26T06:35:46.526Z
+status: up
+code: 401
+responseTime: 472
+lastUpdated: 2025-04-26T15:45:46.742Z
 startTime: 2025-04-24T12:16:51.455Z
 generator: Upptime <https://github.com/upptime/upptime>
