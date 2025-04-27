@@ -1,7 +1,7 @@
 url: https://$API_SENSONET_SITE_URL/notifications
 status: up
 code: 401
-responseTime: 21
-lastUpdated: 2025-04-26T23:02:46.012Z
+responseTime: 166
+lastUpdated: 2025-04-27T23:03:09.079Z
 startTime: 2025-04-24T12:16:35.473Z
 generator: Upptime <https://github.com/upptime/upptime>
