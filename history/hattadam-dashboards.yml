@@ -1,7 +1,7 @@
 url: https://$API_HATTADAM_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 392
-lastUpdated: 2025-04-26T23:02:22.175Z
+responseTime: 457
+lastUpdated: 2025-04-27T23:02:38.898Z
 startTime: 2025-04-24T12:15:36.246Z
 generator: Upptime <https://github.com/upptime/upptime>
