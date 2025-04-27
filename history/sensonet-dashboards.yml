@@ -1,7 +1,7 @@
 url: https://$API_SENSONET_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 19
-lastUpdated: 2025-04-26T23:02:44.758Z
+responseTime: 146
+lastUpdated: 2025-04-27T23:03:06.990Z
 startTime: 2025-04-24T12:16:31.631Z
 generator: Upptime <https://github.com/upptime/upptime>
