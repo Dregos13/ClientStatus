@@ -1,7 +1,7 @@
 url: https://$API_EUROPE_SITE_URL/notifications
 status: up
 code: 401
-responseTime: 412
-lastUpdated: 2025-04-26T23:02:16.861Z
+responseTime: 473
+lastUpdated: 2025-04-27T23:02:31.807Z
 startTime: 2025-04-24T12:15:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
