@@ -1,7 +1,7 @@
 url: https://$API_FTG_SITE_URL/hierarchy
 status: up
 code: 401
-responseTime: 37
-lastUpdated: 2025-04-24T12:20:35.957Z
+responseTime: 145
+lastUpdated: 2025-04-27T23:02:34.404Z
 startTime: 2025-04-24T12:15:31.841Z
 generator: Upptime <https://github.com/upptime/upptime>

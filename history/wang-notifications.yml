@@ -1,7 +1,7 @@
 url: https://$API_WANG_SITE_URL/notifications
 status: up
 code: 401
-responseTime: 48
-lastUpdated: 2025-04-24T12:21:17.204Z
+responseTime: 146
+lastUpdated: 2025-04-27T23:03:16.291Z
 startTime: 2025-04-24T12:16:45.769Z
 generator: Upptime <https://github.com/upptime/upptime>
