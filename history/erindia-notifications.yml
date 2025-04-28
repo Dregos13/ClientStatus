@@ -1,7 +1,7 @@
 url: https://$API_ERINDIA_SITE_URL/notifications
-status: up
-code: 401
-responseTime: 471
-lastUpdated: 2025-04-27T23:02:19.840Z
+status: down
+code: 503
+responseTime: 203
+lastUpdated: 2025-04-28T00:52:14.990Z
 startTime: 2025-04-24T12:15:09.668Z
 generator: Upptime <https://github.com/upptime/upptime>
