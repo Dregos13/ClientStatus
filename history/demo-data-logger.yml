@@ -1,7 +1,7 @@
 url: https://$API_DEMO_SITE_URL/data-logger
 status: up
 code: 401
-responseTime: 408
-lastUpdated: 2025-05-07T23:01:44.965Z
+responseTime: 460
+lastUpdated: 2025-05-08T23:01:54.349Z
 startTime: 2025-04-24T12:14:36.348Z
 generator: Upptime <https://github.com/upptime/upptime>
