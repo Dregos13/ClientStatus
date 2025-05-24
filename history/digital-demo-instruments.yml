@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/instruments
 status: up
 code: 401
-responseTime: 122
-lastUpdated: 2025-05-23T23:01:49.258Z
+responseTime: 17
+lastUpdated: 2025-05-24T23:01:49.373Z
 startTime: 2025-04-24T12:14:54.511Z
 generator: Upptime <https://github.com/upptime/upptime>
