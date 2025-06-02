@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/layers
-status: down
-code: 503
-responseTime: 61
-lastUpdated: 2025-06-02T08:38:18.687Z
+status: up
+code: 401
+responseTime: 151
+lastUpdated: 2025-06-02T08:48:33.111Z
 startTime: 2025-04-24T12:14:56.048Z
 generator: Upptime <https://github.com/upptime/upptime>
