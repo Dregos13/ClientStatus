@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/data-logger
 status: up
 code: 401
-responseTime: 20
-lastUpdated: 2025-06-09T23:01:56.561Z
+responseTime: 42
+lastUpdated: 2025-06-10T23:01:51.318Z
 startTime: 2025-04-24T12:14:47.476Z
 generator: Upptime <https://github.com/upptime/upptime>
