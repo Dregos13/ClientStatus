@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/data-processing
-status: down
-code: 503
-responseTime: 71
-lastUpdated: 2025-06-17T16:47:07.258Z
+status: up
+code: 401
+responseTime: 148
+lastUpdated: 2025-06-17T16:56:01.957Z
 startTime: 2025-04-24T12:14:49.267Z
 generator: Upptime <https://github.com/upptime/upptime>
