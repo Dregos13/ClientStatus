@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/notifications
 status: up
 code: 401
-responseTime: 15
-lastUpdated: 2025-06-22T23:01:50.442Z
+responseTime: 22
+lastUpdated: 2025-06-23T23:01:40.211Z
 startTime: 2025-04-24T12:14:57.619Z
 generator: Upptime <https://github.com/upptime/upptime>
