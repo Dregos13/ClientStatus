@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/comments
 status: up
 code: 401
-responseTime: 288
-lastUpdated: 2025-06-24T23:01:54.763Z
+responseTime: 529
+lastUpdated: 2025-06-25T23:02:03.775Z
 startTime: 2025-04-24T12:14:44.232Z
 generator: Upptime <https://github.com/upptime/upptime>
