@@ -1,7 +1,7 @@
 url: https://$API_DEMO_SITE_URL/instruments
 status: up
 code: 401
-responseTime: 401
-lastUpdated: 2025-06-27T23:01:42.250Z
+responseTime: 403
+lastUpdated: 2025-06-28T23:01:41.536Z
 startTime: 2025-04-24T12:14:41.611Z
 generator: Upptime <https://github.com/upptime/upptime>
