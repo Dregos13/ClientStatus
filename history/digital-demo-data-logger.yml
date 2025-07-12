@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/data-logger
 status: down
 code: 504
-responseTime: 10022
-lastUpdated: 2025-07-11T23:02:19.747Z
+responseTime: 10004
+lastUpdated: 2025-07-12T23:02:13.670Z
 startTime: 2025-04-24T12:14:47.476Z
 generator: Upptime <https://github.com/upptime/upptime>
