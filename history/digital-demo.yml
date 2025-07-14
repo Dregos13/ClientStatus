@@ -1,7 +1,7 @@
 url: https://$DIGITALDEMO_SITE_URL
-status: down
-code: 503
-responseTime: 399
-lastUpdated: 2025-07-13T23:02:02.913Z
+status: up
+code: 200
+responseTime: 433
+lastUpdated: 2025-07-14T09:02:45.031Z
 startTime: 2025-04-23T20:41:41.809Z
 generator: Upptime <https://github.com/upptime/upptime>
