@@ -1,7 +1,7 @@
 url: https://$API_DEMO_SITE_URL/dashboards
 status: up
 code: 401
-responseTime: 417
-lastUpdated: 2025-07-28T08:49:25.443Z
+responseTime: 471
+lastUpdated: 2025-07-28T23:01:46.361Z
 startTime: 2025-04-24T12:14:35.638Z
 generator: Upptime <https://github.com/upptime/upptime>
