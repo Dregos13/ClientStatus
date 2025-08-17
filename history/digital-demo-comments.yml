@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/comments
 status: down
 code: 503
-responseTime: 310
-lastUpdated: 2025-08-16T23:01:50.544Z
+responseTime: 339
+lastUpdated: 2025-08-17T23:01:55.062Z
 startTime: 2025-04-24T12:14:44.232Z
 generator: Upptime <https://github.com/upptime/upptime>
