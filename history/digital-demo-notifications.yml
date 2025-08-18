@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/notifications
 status: down
 code: 504
-responseTime: 10074
-lastUpdated: 2025-08-17T23:03:57.831Z
+responseTime: 10061
+lastUpdated: 2025-08-18T23:04:15.789Z
 startTime: 2025-04-24T12:14:57.619Z
 generator: Upptime <https://github.com/upptime/upptime>
