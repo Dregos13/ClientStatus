@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/dashboards
 status: down
 code: 503
-responseTime: 74
-lastUpdated: 2025-08-29T23:01:58.852Z
+responseTime: 20
+lastUpdated: 2025-08-30T23:01:59.020Z
 startTime: 2025-04-24T12:14:45.847Z
 generator: Upptime <https://github.com/upptime/upptime>
