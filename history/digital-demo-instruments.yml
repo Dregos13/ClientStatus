@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/instruments
 status: down
 code: 504
-responseTime: 10050
-lastUpdated: 2025-09-27T23:03:17.345Z
+responseTime: 10024
+lastUpdated: 2025-09-28T23:03:24.716Z
 startTime: 2025-04-24T12:14:54.511Z
 generator: Upptime <https://github.com/upptime/upptime>
