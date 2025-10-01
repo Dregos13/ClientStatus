@@ -1,7 +1,7 @@
 url: https://$API_DIGITALDEMO_SITE_URL/hierarchy
 status: down
 code: 503
-responseTime: 27
-lastUpdated: 2025-09-30T23:02:52.065Z
+responseTime: 30
+lastUpdated: 2025-10-01T23:02:50.178Z
 startTime: 2025-04-24T12:14:52.780Z
 generator: Upptime <https://github.com/upptime/upptime>
