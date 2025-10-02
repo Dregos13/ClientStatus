@@ -1,7 +1,7 @@
 url: https://$API_DEMO_SITE_URL/comments
-status: down
-code: 502
-responseTime: 1563
-lastUpdated: 2025-10-02T05:55:02.396Z
+status: up
+code: 401
+responseTime: 1541
+lastUpdated: 2025-10-02T06:00:44.845Z
 startTime: 2025-04-24T12:14:33.910Z
 generator: Upptime <https://github.com/upptime/upptime>
