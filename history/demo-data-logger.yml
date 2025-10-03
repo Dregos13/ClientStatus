@@ -1,7 +1,7 @@
 url: https://$API_DEMO_SITE_URL/data-logger
-status: down
-code: 503
-responseTime: 241
-lastUpdated: 2025-10-03T23:06:28.542Z
+status: up
+code: 401
+responseTime: 485
+lastUpdated: 2025-10-03T23:15:38.429Z
 startTime: 2025-04-24T12:14:36.348Z
 generator: Upptime <https://github.com/upptime/upptime>
