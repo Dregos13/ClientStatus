@@ -1,7 +1,7 @@
 url: https://$API_DEMO_SITE_URL/layers
-status: down
-code: 503
-responseTime: 240
-lastUpdated: 2025-10-05T09:38:08.665Z
+status: up
+code: 401
+responseTime: 502
+lastUpdated: 2025-10-05T09:43:30.691Z
 startTime: 2025-04-24T12:14:42.332Z
 generator: Upptime <https://github.com/upptime/upptime>
