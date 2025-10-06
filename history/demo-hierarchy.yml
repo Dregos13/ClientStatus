@@ -1,7 +1,7 @@
 url: https://$API_DEMO_SITE_URL/hierarchy
-status: down
-code: 503
-responseTime: 240
-lastUpdated: 2025-10-06T21:34:54.302Z
+status: up
+code: 401
+responseTime: 489
+lastUpdated: 2025-10-06T21:40:34.462Z
 startTime: 2025-04-24T12:14:40.880Z
 generator: Upptime <https://github.com/upptime/upptime>
