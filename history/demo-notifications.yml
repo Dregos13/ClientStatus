@@ -1,7 +1,7 @@
 url: https://$API_DEMO_SITE_URL/notifications
-status: up
-code: 401
-responseTime: 497
-lastUpdated: 2025-10-07T05:39:18.087Z
+status: down
+code: 503
+responseTime: 200
+lastUpdated: 2025-10-07T08:16:10.556Z
 startTime: 2025-04-24T12:14:43.066Z
 generator: Upptime <https://github.com/upptime/upptime>
